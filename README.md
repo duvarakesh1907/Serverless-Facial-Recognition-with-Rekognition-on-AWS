@@ -18,6 +18,7 @@ DynamoDB : Stores the analysis results from Rekognition.
 
 Implementation Steps
 
+
 Note : Configure the proper IAM Role.
 
 Step 1: Set Up S3 Bucket
