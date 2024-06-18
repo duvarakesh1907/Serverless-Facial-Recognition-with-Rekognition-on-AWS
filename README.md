@@ -6,9 +6,13 @@ Build a serverless application that utilizes Amazon Rekognition for facial recog
 Architecture
 
 User Interface : Web application or mobile app for users to upload images.
+
 S3 Bucket : Stores uploaded images.
+
 AWS Lambda : Processes uploaded images and triggers Rekognition.
+
 Amazon Rekognition : Detects faces and analyzes images.
+
 DynamoDB : Stores the analysis results from Rekognition.
 
 
