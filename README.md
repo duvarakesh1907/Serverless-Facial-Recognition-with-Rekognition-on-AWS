@@ -16,7 +16,7 @@ Amazon Rekognition : Detects faces and analyzes images.
 DynamoDB : Stores the analysis results from Rekognition.
 
 
-Implementation Steps
+Implementation Steps:
 
 
 Note : Configure the proper IAM Role.
